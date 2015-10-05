@@ -42,6 +42,7 @@ If you'd like to be involved with a group or want to create a new group then rai
 
  - *UK, London* - Lewis Nyman
  - *UK, London* - Alice Richmond
+ - *Sweden, Stockholm* - Matts Hildén
  - *Finland, Helsinki* - Matti Vahtera
 
 ## Hosting and Support
